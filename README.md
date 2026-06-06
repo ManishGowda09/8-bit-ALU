@@ -8,11 +8,11 @@ This repository contains a synthesizable, high-performance 8-bit Arithmetic Logi
 Zero Latch Generation Guarantee: Every execution branch explicitly drives both OutALU and COut, featuring a robust default catch-all branch to prevent hazardous combinational latches.
 
 # 📁 Port Descriptions :
-Inputs Input_A [7:0]: 8-bit data operand bus A./t
-Input_B [7:0]: 8-bit data operand bus B.
-OpCode [2:0]: 3-bit operational mode control selector.
-OutputsOutALU [15:0]: 16-bit primary data output bus (zero-extended for logical/bitwise ops).
-COut: 1-bit active-high arithmetic overflow / carry-out status bit.
+Inputs Input_A [7:0]: 8-bit data operand bus A.
+ Input_B [7:0]: 8-bit data operand bus B.
+ OpCode [2:0]: 3-bit operational mode control selector.
+ OutputsOutALU [15:0]: 16-bit primary data output bus (zero-extended for logical/bitwise ops).
+ COut: 1-bit active-high arithmetic overflow / carry-out status bit.
 
 <img width="842" height="552" alt="image" src="https://github.com/user-attachments/assets/88fa0aac-9c2e-4bbe-bca8-b2bc996de7b8" />
 
