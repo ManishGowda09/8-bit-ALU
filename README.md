@@ -15,5 +15,9 @@ OutputsOutALU [15:0]: 16-bit primary data output bus (zero-extended for logical/
 COut: 1-bit active-high arithmetic overflow / carry-out status bit.
 
 <img width="842" height="552" alt="image" src="https://github.com/user-attachments/assets/88fa0aac-9c2e-4bbe-bca8-b2bc996de7b8" />
+
+
 # The ALU must support the following operations:
+
+
 <img width="375" height="728" alt="image" src="https://github.com/user-attachments/assets/d41b226d-66c6-4828-aff6-4073d9450187" />
