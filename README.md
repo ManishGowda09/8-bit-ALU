@@ -21,3 +21,6 @@ Inputs Input_A [7:0]: 8-bit data operand bus A.
 
 
 <img width="375" height="728" alt="image" src="https://github.com/user-attachments/assets/d41b226d-66c6-4828-aff6-4073d9450187" />
+# Output:
+<img width="1537" height="530" alt="image" src="https://github.com/user-attachments/assets/6904b5e5-c916-41d1-a72d-2b1327b5e72e" />
+
